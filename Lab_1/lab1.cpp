@@ -10,8 +10,11 @@ void cinInfo(Student array[], int n){
     int grades[5];
 
     for (int i = 0; i < n; i++){
+        cout << "Enter name of student number " << i + 1 << ": " << endl;;
         cin >> name;
+        cout << "Enter secondname of student number " << i + 1 << ": " << endl;;
         cin >> secondname;
+        cout << "Enter five grades for student (for example 5 4 3 2 5) number " << i + 1 << ": " << endl;;
         for (int j = 0; j < 5; j++){
             cin >> grades[j];
         }
@@ -24,8 +27,9 @@ void cinInfo(Student array[], int n){
 int main(){
 
     int n;
-    cin >> n;
 
+    cout << "Enter count of students: " << endl;;
+    cin >> n;
     Student *array = new Student[n];
 
     cinInfo(array, n);
