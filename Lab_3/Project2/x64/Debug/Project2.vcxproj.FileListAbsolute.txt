@@ -1,0 +1,2 @@
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Project2\Project2\x64\Debug\Project2.vcxproj.AssemblyReference.cache
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Project2\Project2\x64\Debug\Project2.vcxproj.SuggestedBindingRedirects.cache

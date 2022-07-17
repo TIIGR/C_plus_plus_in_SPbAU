@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Project2\Project2\MyForm.h(156,19): warning C4101: d: неиспользованная локальная переменная
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Project2\Project2\MyForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project2.vcxproj -> D:\GitHubRepository\C_plus_plus_in_SPbAU\Project2\x64\Debug\Lab_3.exe
