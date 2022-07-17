@@ -1,0 +1,9 @@
+﻿  counter.cpp
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\Project3\counter.cpp(78,33): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  MyForm.cpp
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\Project3\MyForm.cpp(6,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  opz.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  counter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project3.vcxproj -> D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\x64\Debug\Lab_4.exe
