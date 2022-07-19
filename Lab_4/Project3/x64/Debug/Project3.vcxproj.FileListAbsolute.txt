@@ -1,6 +1,0 @@
-D:\GitHubRepository\C_plus_plus_in_SPbAU\Project3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
-D:\GitHubRepository\C_plus_plus_in_SPbAU\Project3\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
-D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
-D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\Project3\x64\Debug\Project3.vcxproj.SuggestedBindingRedirects.cache
-D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\Project3\x64\Debug\Project3.MyForm.resources
-D:\GitHubRepository\C_plus_plus_in_SPbAU\Lab_4\Project3\x64\Debug\Project3.vcxproj.GenerateResource.cache
