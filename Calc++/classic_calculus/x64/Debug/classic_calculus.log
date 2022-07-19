@@ -1,0 +1,7 @@
+﻿  classic_calculus.cpp
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Calc++\classic_calculus\classic_calculus.h(63,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Calc++\classic_calculus\classic_calculus.h(69,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Calc++\classic_calculus\classic_calculus.h(80,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Calc++\classic_calculus\classic_calculus.h(86,29): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\GitHubRepository\C_plus_plus_in_SPbAU\Calc++\classic_calculus\classic_calculus.h(101,25): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  classic_calculus.vcxproj -> D:\GitHubRepository\C_plus_plus_in_SPbAU\Calc++\x64\Debug\Calc++.exe
